@@ -1,0 +1,9 @@
+c:\users\earde\documents\visual studio 2013\Projects\niggigame\bin\Debug\niggigame.exe.config
+c:\users\earde\documents\visual studio 2013\Projects\niggigame\bin\Debug\niggigame.exe
+c:\users\earde\documents\visual studio 2013\Projects\niggigame\bin\Debug\niggigame.pdb
+c:\users\earde\documents\visual studio 2013\Projects\niggigame\bin\Debug\OpenTK.dll
+c:\users\earde\documents\visual studio 2013\Projects\niggigame\bin\Debug\OpenTK.pdb
+c:\users\earde\documents\visual studio 2013\Projects\niggigame\bin\Debug\OpenTK.xml
+c:\users\earde\documents\visual studio 2013\Projects\niggigame\obj\Debug\niggigame.csprojResolveAssemblyReference.cache
+c:\users\earde\documents\visual studio 2013\Projects\niggigame\obj\Debug\niggigame.exe
+c:\users\earde\documents\visual studio 2013\Projects\niggigame\obj\Debug\niggigame.pdb
